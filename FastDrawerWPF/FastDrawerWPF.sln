@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDrawerWPF", "FastDrawerWPF\FastDrawerWPF.csproj", "{E94D3E0B-9649-477B-BE54-19BF087402CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94D3E0B-9649-477B-BE54-19BF087402CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D3E0B-9649-477B-BE54-19BF087402CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D3E0B-9649-477B-BE54-19BF087402CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D3E0B-9649-477B-BE54-19BF087402CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583FE547-7E95-40CC-8F6F-F545F110019F}
+	EndGlobalSection
+EndGlobal
